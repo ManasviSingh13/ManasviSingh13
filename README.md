@@ -1,50 +1,70 @@
-# Hey there, I'm Manasvi Singh 👩‍💻✨  
-🚀 Future Full Stack Developer | 💡 Code Lover | 📚 Lifelong Learner  
+<div align="center">
+
+# 👩‍💻 Hey, I'm Manasvi Singh  
+### 🚀 Future Full Stack Developer | 💡 Code Lover | 📚 Lifelong Learner  
+
+✨ Turning ideas into code, and code into reality ✨  
+
+</div>
 
 ---
 
-## 🌸 About Me  
-- Computer Science student who loves building things with code  
-- I code almost every day and keep improving  
-- Interested in Web Development, Java, and Projects  
-- Dream: Strong career + Powerful GitHub  
+## 🌸 About Me
+- 🎓 Computer Science student  
+- 🔁 I code almost every day  
+- 🌐 Love Web Development & Java  
+- 🎯 Dream: Strong Career + Powerful GitHub  
 
 ---
 
-## 🧠 Tech I Use  
-💻 Languages & Tools  
-- HTML, CSS, JavaScript  
-- Java  
-- Git & GitHub  
-- React (Learning Phase 🚧)
-
----
-  
-
----
-
-## 📂 What You’ll Find Here  
-- Clean code  
-- Mini projects  
-- Interview practice programs  
-- Learning notes  
-- Real progress, not fake perfection  
+## 🧠 Tech Stack
+### Languages & Tools
+- 🟠 HTML  
+- 🔵 CSS  
+- 🟡 JavaScript  
+- ☕ Java  
+- 🐙 Git & GitHub  
+- ⚛️ React (Learning 🚧)
 
 ---
 
-## 🎯 Current Mission  
-- Build amazing projects  
-- Become Full Stack Developer  
-- Crack placements  
-- Make my GitHub strong & active  
+## 🚀 Projects
+| Project | Tech |  
+|--------|------|  
+| Pokedex App | HTML, CSS, JS |  
+| Portfolio Website | HTML, CSS |  
+| Hotstar Clone | HTML, CSS |  
+| Daily Coding | Java, JS |  
 
 ---
 
-## 🔥 Quote I Follow  
-> “Small code every day beats big dreams someday.”
+## 📂 What You'll See Here
+- ✔ Real Projects  
+- ✔ Mini Apps  
+- ✔ Interview Practice  
+- ✔ Learning Notes  
+- ✔ Daily Progress  
 
 ---
 
-## 🌟 Thank You for Visiting!  
-If you like my work, don’t forget to ⭐ my repos  
-Let’s grow together through code 💙
+## 🎯 Current Goals
+- 🔥 Become Full Stack Developer  
+- 🧩 Build powerful projects  
+- 🏆 Crack placements  
+- 🌱 Grow every single day  
+
+---
+
+## 💬 Code Philosophy
+> "Consistency beats talent when talent doesn’t practice."
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my profile  
+If you like my work, don’t forget to ⭐ my repositories  
+
+💙 Let’s grow together through code  
+
+</div>
