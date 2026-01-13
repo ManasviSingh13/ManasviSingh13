@@ -1,34 +1,33 @@
 <div align="center">
 
-# 👩‍💻 Hey, I'm Manasvi Singh  
-### 🚀 Future Full Stack Developer | 💡 Code Lover | 📚 Lifelong Learner  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55" />
 
-✨ Turning ideas into code, and code into reality ✨  
+# 👩‍💻 Manasvi Singh  
+### 🚀 Future Full Stack Developer | 💡 Code Lover | 📚 Lifelong Learner  
 
 </div>
 
 ---
 
-## 🌸 About Me
-- 🎓 Computer Science student  
-- 🔁 I code almost every day  
+## 🌟 About Me  
+- 🎓 Computer Science Student  
+- 💻 Coding daily and improving  
 - 🌐 Love Web Development & Java  
 - 🎯 Dream: Strong Career + Powerful GitHub  
 
 ---
 
-## 🧠 Tech Stack
-### Languages & Tools
-- 🟠 HTML  
-- 🔵 CSS  
-- 🟡 JavaScript  
-- ☕ Java  
-- 🐙 Git & GitHub  
-- ⚛️ React (Learning 🚧)
+## 🧠 Tech Stack  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-brown?style=for-the-badge&logo=java&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)  
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
 | Project | Tech |  
 |--------|------|  
 | Pokedex App | HTML, CSS, JS |  
@@ -38,33 +37,24 @@
 
 ---
 
-## 📂 What You'll See Here
-- ✔ Real Projects  
-- ✔ Mini Apps  
-- ✔ Interview Practice  
-- ✔ Learning Notes  
-- ✔ Daily Progress  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManasviSingh13&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-## 🎯 Current Goals
-- 🔥 Become Full Stack Developer  
-- 🧩 Build powerful projects  
-- 🏆 Crack placements  
-- 🌱 Grow every single day  
-
----
-
-## 💬 Code Philosophy
-> "Consistency beats talent when talent doesn’t practice."
+## 🔥 Current Goals  
+- Become Full Stack Developer  
+- Build powerful projects  
+- Crack placements  
+- Grow daily  
 
 ---
 
 <div align="center">
 
-### 🌟 Thanks for visiting my profile  
-If you like my work, don’t forget to ⭐ my repositories  
-
-💙 Let’s grow together through code  
+### ⭐ Thanks for Visiting!  
+If you like my work, don’t forget to star my repos 💙  
 
 </div>
