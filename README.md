@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Manasvi%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Modern%20Web%20Developer%20|%20Building%20with%20Code&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:00c6ff&height=250&section=header&text=Manasvi%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Modern%20Web%20Developer%20|%20Code%20Creator&descAlignY=65"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=500&color=38bdf8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I+build+modern+web+apps;Clean+UI+Clean+Code;Dream+Build+Grow"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=500&color=00fff0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Building+modern+web+apps;Clean+Code+Clean+UI;Dream+Build+Grow"/>
 
 </div>
 
@@ -12,13 +12,13 @@
 <img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - Computer Science student  
-- Passionate about modern UI/UX  
-- Building real-world projects  
+- Passionate about modern web design  
+- Building real projects  
 - Learning full stack development  
 
 ---
 
-## 🧠 Skills & Tools  
+## 🧠 Tech Stack  
 <p>
 <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-2563eb?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -74,7 +74,6 @@
 
 ## 🌍 Connect With Me  
 <p>
-<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
