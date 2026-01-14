@@ -1,8 +1,10 @@
-# 👋 Hello, I'm Manasvi Singh  
-### 🚀 Modern Web Developer | Code Creator  
-> *"Clean code, clean UI, and continuous learning."*
+<div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2933,100:000000&height=220&section=header&text=Web%20Dev%20|%20Open%20Source%20|%20Building%20in%20Public&fontSize=40&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,50:e100ff,100:00c6ff&height=250&section=header&text=Manasvi%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Modern%20Web%20Developer%20|%20Code%20Creator&descAlignY=65"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=500&color=00fff0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Building+modern+web+apps;Clean+Code+Clean+UI;Dream+Build+Grow"/>
+
+</div>
 
 ---
 
@@ -16,27 +18,24 @@
 ---
 
 ## 👩‍💻 About Me  
-<p align="right">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
-</p>
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I’m a Computer Science student passionate about modern web design and full stack development.  
-I love building real projects, improving UI/UX, and writing clean, readable code.
-
-- 🎓 Computer Science student  
-- 🎨 Passionate about modern web design  
-- 🛠 Building real projects  
-- 📚 Learning full stack development  
+- Computer Science student  
+- Passionate about modern web design  
+- Building real projects  
+- Learning full stack development  
 
 ---
 
 ## 🧠 Tech Stack  
-![HTML](https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2563eb?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-2563eb?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-ef4444?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -59,4 +58,47 @@ I love building real projects, improving UI/UX, and writing clean, readable code
 ---
 
 ## 📊 GitHub Analytics  
-![Stats](https://gi)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ManasviSingh13&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasviSingh13&theme=transparent"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasviSingh13&theme=github-dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📚 Learning Journey  
+- Web development  
+- Java programming  
+- Data structures  
+- Interview preparation  
+
+---
+
+## 🌍 Connect With Me  
+<p>
+<img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
+---
+
+## 👁 Profile Views  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ManasviSingh13&label=Profile+Views&color=38bdf8&style=for-the-badge"/>
+</p>
+
+---
+
+<div align="center">
+
+### 🌙 Thanks for Visiting  
+⭐ Star my repos if you like my work  
+Let’s build modern apps together  
+
+</div>
